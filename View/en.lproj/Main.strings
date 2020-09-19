@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Start Game Here"; ObjectID = "0wQ-2F-aMQ"; */
+"0wQ-2F-aMQ.normalTitle" = "Start Game Here";
+
+/* Class = "UITextField"; placeholder = "Enter Guess Here"; ObjectID = "FbI-G6-hnp"; */
+"FbI-G6-hnp.placeholder" = "Enter Guess Here";
+
+/* Class = "UILabel"; text = "Incorrect Guesses: "; ObjectID = "GMB-SB-Qkf"; */
+"GMB-SB-Qkf.text" = "Incorrect Guesses: ";
+
+/* Class = "UIView"; accessibilityLabel = "Keyboard"; ObjectID = "S9t-Tz-iyZ"; */
+"S9t-Tz-iyZ.accessibilityLabel" = "Keyboard";
+
+/* Class = "UILabel"; text = "Hangman: The Office Edition"; ObjectID = "Z22-Ue-Z1g"; */
+"Z22-Ue-Z1g.text" = "Hangman: The Office Edition";
+
+/* Class = "UILabel"; text = "Hangman: The Office Edition"; ObjectID = "bBg-H7-ihR"; */
+"bBg-H7-ihR.text" = "Hangman: The Office Edition";
+
+/* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "oSj-D6-aHq"; */
+"oSj-D6-aHq.normalTitle" = "Restart";
+
+/* Class = "UIButton"; normalTitle = "Guess!"; ObjectID = "t0C-Mt-XPa"; */
+"t0C-Mt-XPa.normalTitle" = "Guess!";
