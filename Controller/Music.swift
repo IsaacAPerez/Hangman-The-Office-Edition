@@ -11,7 +11,6 @@ import AVFoundation
 
 // This Class creates a MusicPlayer that plays "The Office" Theme Song
 class MusicPlayer {
-    static let shared = MusicPlayer()
     var audioPlayer: AVAudioPlayer?
 
     func startBackgroundMusic() {
